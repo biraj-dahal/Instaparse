@@ -168,3 +168,6 @@ extension PostViewController: PHPickerViewControllerDelegate {
 }
 
 // TODO: Pt 2 - Add UIImagePickerControllerDelegate + UINavigationControllerDelegate
+extension PostViewController: UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+
+}
