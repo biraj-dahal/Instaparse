@@ -25,6 +25,8 @@
 	<array>
 		<string>Filmotype-Jade.otf</string>
 	</array>
+	<key>CFBundleIdentifier</key>
+	<string></string>
 	<key>NSCameraUsageDescription</key>
 	<string>In order to take a photo to add to your post, we need to access your camera.</string>
 </dict>
